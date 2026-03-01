@@ -1,5 +1,5 @@
 function complicatedCalc(a, b) {
-  return a + b;
+  return a + b; // // returns the sum of a and b
 }
 
 
