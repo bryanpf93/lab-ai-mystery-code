@@ -100,7 +100,6 @@ function mystery1(arr) {
 :white_check_mark: Tip: Use Claude or ChatGPT:  
 > "What’s wrong with this JS loop? Explain and fix it."
 
-Nunca aumentamos i, asi que el bucle se repite infinitamente si el primer elemento no es par. El objetivo es comprobar si hay un numero par en el array.
 
 ```js
 unction evenNumber(arr) {
